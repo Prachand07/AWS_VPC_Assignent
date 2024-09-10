@@ -13,7 +13,7 @@
 **Run the following Commands in CloudShell**
 
 ```bash
-CURL -LO https://raw.githubusercontent.com/Prachand07/AWS_VPC_Assignent/main/deploy.sh
+curl -LO https://raw.githubusercontent.com/Prachand07/AWS_VPC_Assignent/main/deploy.sh
 sudo chmod +x deploy.sh
 ./deploy.sh
 ```
