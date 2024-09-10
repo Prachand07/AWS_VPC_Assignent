@@ -14,7 +14,9 @@
 
 ```bash
 curl -LO raw.githubusercontent.com/Prachand07/AWS_VPC_Assignent/2744fa3f967ff70b81ed58b5e1c00958fe6d64f4/deploy.sh
+
 sudo chmod +x deploy.sh
+
 ./deploy.sh
 ```
 **Congratulations 🎉 for completing the Lab !**
